@@ -1,2 +1,2 @@
 # D1M-Shift
-Esp8266 D1 Mini Ignition Based Quick shifter For Motorcycles
+Ignition Cut Based Quickshifter Using A Esp8266 D1 Mini And A Ground Signal From A Shifter
